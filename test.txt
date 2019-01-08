@@ -1,2 +1,0 @@
-Git is a test file.
-My name is a git file for testing.
