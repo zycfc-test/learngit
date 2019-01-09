@@ -4,4 +4,5 @@ Git has mutable index called stage.
 Git is a version control system.
 Git tracks changes.
 Change id very very faster
+tell me wednesday or thursday.
 Lijie ,today is a very happy
